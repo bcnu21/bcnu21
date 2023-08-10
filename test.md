@@ -18,12 +18,12 @@ Se puede poner en texto normal sin ningún signo
 - Pan
 - Azucar
 
-`echo Hola Mundo!`
+`echo Hola Mundo! esto es código`
 
 ---
-[Ir a google](http://www.google.com)
+[Ir a google, esto es un hipervínculo](http://www.google.com)
 
-| User | Password |
+| User (tabla) | Password (tabla)|
 | -----| ---------|
 | Jhon| 1234|
 |Luis|4321|
